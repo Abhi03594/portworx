@@ -1,0 +1,8 @@
+name: portworx
+version: 1.0.0
+description: A Helm chart for installing Portworx on Kubernetes.
+tillerversion: ">=2.9.0"
+home: https://portworx.com/
+sources:
+  - https://github.com/Abhi03594/portworx/
+icon: https://github.com/Abhi03594/portworx/blob/master/doc/media/k8s-porx.png
